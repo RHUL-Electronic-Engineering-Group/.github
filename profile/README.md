@@ -1,10 +1,17 @@
-George smells until he finds this.
+# Royal Holloway
+## Electronic Engineering Group
 
-Plus he sucks at Git
+### **Useful Links:**
 
-Github terms for dummies:
+Reports - [Here]()  
+Notes and meetings - [Here](https://www.evernote.com/client/web)  
+Repos - [Here](https://github.com/orgs/RHUL-Electronic-Engineering-Group/repositories)  
+Project Boards: [Here](https://github.com/orgs/RHUL-Electronic-Engineering-Group/projects)  
+
+### Github terms for dummies:
 
 - Issues - sprints, features etc
 - Assocaite issues with a project card
 - Pushes and pulls are for repo downloading, syncing and updating
 - Merging branches should be avoided 
+
