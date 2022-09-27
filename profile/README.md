@@ -1,6 +1,3 @@
-# Royal Holloway
-## Electronic Engineering Group
-
 ### **Useful Links:**
 
 Reports - [Here]()  
